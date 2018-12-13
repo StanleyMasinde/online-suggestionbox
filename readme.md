@@ -7,5 +7,7 @@ Dependencies include, Jquery, FontAwesom5 and Laravel
 1. ```git clone```
 2. ```cd online-suggestion-box```
 3. ```composer install```
-4. ```php artisan migrate```
-5. ```php artisan serve```
+4. Fill your database details on the .env file
+5. ```php artisan migrate```
+6. ```php artisan serve```
+
